@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Salestaxes</string>
+    <string name="action_settings">Settings</string>
+    <string name="rowCount">how many row input</string>
+    <string name="btnCreate">Create</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
